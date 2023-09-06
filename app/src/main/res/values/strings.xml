@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Para Arg. Programa</string>
+    <string name="Botton_Calcular">COMPARAR</string>
+    <string name="Entrada1">Ingrese la primer Palabra</string>
+    <string name="Entrada2">Ingrese la segunda Palabra</string>
+</resources>
